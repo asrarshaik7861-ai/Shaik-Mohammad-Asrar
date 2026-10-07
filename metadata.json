@@ -1,0 +1,6 @@
+{
+  "name": "AI Email Generator",
+  "description": "Write better emails in seconds with AI. Professional AI-powered email writing assistant powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
